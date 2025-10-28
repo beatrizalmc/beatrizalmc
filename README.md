@@ -5,7 +5,7 @@
 Me chamo Beatriz Caroline Campos de Almeida, tenho 23 anos e sou do interior de São Paulo. Sou formada em Biomedicina, pela UNOESTE. No começo do ano, iniciei minha transição de carreira, e estou cursando Análise e Desenvolvimento de Sistemas também na UNOESTE. Desde muito antes de me descobrir na área da tecnologia, sempre gostei muito da área e cada vez que me aprofundo mais estou ficando mais apaixonada pela área.
 
 <p align="left">
-   <a href="https://github.com/biazzz02?tab=repositories&sort=stargazers">
+   <a href="https://github.com/beatrizalmc?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
