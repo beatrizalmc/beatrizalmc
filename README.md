@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-end`**
 
-Me chamo Beatriz Caroline Campos de Almeida, tenho 23 anos e sou do interior de São Paulo. Sou formada em Biomedicina, pela UNOESTE. No começo do ano, iniciei minha transição de carreira, e estou cursando Análise e Desenvolvimento de Sistemas também na UNOESTE. Desde muito antes de me descobrir na área da tecnologia, sempre gostei muito da área e cada vez que me aprofundo mais estou ficando mais apaixonada pela área.
+Me chamo Beatriz Caroline Campos de Almeida, tenho 23 anos e sou do interior de São Paulo. Tenho formação em Biomedicina, pela UNOESTE. Porém, no começo do ano, iniciei minha transição de carreira, e estou cursando Análise e Desenvolvimento de Sistemas também na UNOESTE. Sempre gostei muito da área e cada vez que me aprofundo estou ficando ainda mais apaixonada.
 
 <p align="left">
    <a href="https://github.com/beatrizalmc?tab=repositories&sort=stargazers">
