@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Beatriz Almeida
 
-**`Desenvolvedora Front-end`**
+**`Desenvolvedora Full-stack`**
 
 Olá! Meu nome é **Beatriz Caroline Campos de Almeida**, tenho 23 anos e sou do interior de São Paulo. Sou formada em **Biomedicina pela UNOESTE**, mas no início deste ano iniciei minha **transição de carreira para a área de tecnologia**. Atualmente curso **Análise e Desenvolvimento de Sistemas** também na UNOESTE. Sempre tive afinidade com tecnologia e, quanto mais me aprofundo, mais apaixonada fico pela área.
 
@@ -9,21 +9,7 @@ Olá! Meu nome é **Beatriz Caroline Campos de Almeida**, tenho 23 anos e sou do
 ### 🌐 Conecte-se comigo
 
 <p align="left">
-   <a href="https://github.com/beatrizalmc?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/beatrizalmc?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/beatrizalmc?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/beatrizalmc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/beatriz-almeida-970232224/">
+   <a href="https://www.linkedin.com/in/beatriz-almeida-970232224/">
         <img
             alt="LinkedIn"
             title="Meu LinkedIn" 
@@ -46,18 +32,3 @@ Olá! Meu nome é **Beatriz Caroline Campos de Almeida**, tenho 23 anos e sou do
 </p>
 
 ---
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=beatrizalmc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizalmc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
