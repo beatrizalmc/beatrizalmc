@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Beatriz Almeida
 
-**`Desenvolvedora Full-stack`**
+**`Desenvolvedora Front-end`**
 
 Olá! Meu nome é **Beatriz Caroline Campos de Almeida**, tenho 23 anos e sou do interior de São Paulo. Sou formada em **Biomedicina pela UNOESTE**, mas no início deste ano iniciei minha **transição de carreira para a área de tecnologia**. Atualmente curso **Análise e Desenvolvimento de Sistemas** também na UNOESTE. Sempre tive afinidade com tecnologia e, quanto mais me aprofundo, mais apaixonada fico pela área.
 
