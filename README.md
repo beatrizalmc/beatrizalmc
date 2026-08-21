@@ -2,7 +2,7 @@
 
 **`Dev Front-end Junior`**
 
-Olá! Meu nome é **Beatriz Caroline Campos de Almeida**, tenho 23 anos, sou do interior de São Paulo e no momento estou buscando uma oportunidade de estágio. Sou formada em **Biomedicina pela UNOESTE**, mas no início de 2025 iniciei minha **transição de carreira para a área de tecnologia**. Atualmente curso **Análise e Desenvolvimento de Sistemas** também na UNOESTE. Sempre tive afinidade com tecnologia e, quanto mais estudo, mais apaixonada fico pela área.
+Oie! Meu nome é **Beatriz Almeida**, tenho 24 anos e sou do interior de São Paulo. Sou formada em **Biomedicina pela UNOESTE**, mas no início de 2025 iniciei minha **transição de carreira para a área de tecnologia**. Atualmente curso **Análise e Desenvolvimento de Sistemas**, também na UNOESTE. Sempre tive afinidade com tecnologia e, quanto mais estudo, mais apaixonada fico pela área.
 
 ---
 
@@ -37,6 +37,7 @@ Olá! Meu nome é **Beatriz Caroline Campos de Almeida**, tenho 23 anos, sou do 
 ### ⚙️ Back-end
 
 <p align="left">
+   <img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img alt="C#" title="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img alt=".NET" title=".NET" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
   <img alt="PHP" title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
@@ -47,7 +48,6 @@ Olá! Meu nome é **Beatriz Caroline Campos de Almeida**, tenho 23 anos, sou do 
 
 <p align="left">
   <img alt="SQL Server" title="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
-  <img alt="Entity Framework Core" title="Entity Framework Core" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
   <img alt="Power BI" title="Power BI" width="40px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
   <img alt="Excel" title="Microsoft Excel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
 </p>
