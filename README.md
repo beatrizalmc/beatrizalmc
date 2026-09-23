@@ -1,8 +1,10 @@
 # 👩🏻‍💻 Beatriz Almeida
 
-**`Dev Front-end Junior`**
+**`Desenvolvedora Full-stack Jr`** 
 
-Oie! Meu nome é **Beatriz Almeida**, tenho 24 anos e sou do interior de São Paulo. Sou formada em **Biomedicina pela UNOESTE**, mas no início de 2025 iniciei minha **transição de carreira para a área de tecnologia**. Atualmente curso **Análise e Desenvolvimento de Sistemas**, também na UNOESTE. Sempre tive afinidade com tecnologia e, quanto mais estudo, mais apaixonada fico pela área.
+Oie! Eu sou a Beatriz Almeida, desenvolvedora em formação e estudante de Análise e Desenvolvimento de Sistemas pela UNOESTE.
+
+Sou formada em Biomedicina, mas iniciei minha transição de carreira para tecnologia no início de 2025. Desde então, venho desenvolvendo projetos e construindo experiência prática em desenvolvimento web, APIs, bancos de dados e IA. Sempre buscando aprender e evoluir tecnicamente.
 
 ---
 
@@ -38,6 +40,7 @@ Oie! Meu nome é **Beatriz Almeida**, tenho 24 anos e sou do interior de São Pa
 
 <p align="left">
    <img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+   <img alt="Express.js" title="Express.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
   <img alt="C#" title="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img alt=".NET" title=".NET" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
   <img alt="PHP" title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
@@ -47,6 +50,7 @@ Oie! Meu nome é **Beatriz Almeida**, tenho 24 anos e sou do interior de São Pa
 ### 🗄️ Dados
 
 <p align="left">
+   <img alt="SQL" title="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg"/>
   <img alt="SQL Server" title="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
   <img alt="Power BI" title="Power BI" width="40px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
   <img alt="Excel" title="Microsoft Excel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
@@ -56,6 +60,7 @@ Oie! Meu nome é **Beatriz Almeida**, tenho 24 anos e sou do interior de São Pa
 
 <p align="left">
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+   <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   <img alt="Figma" title="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </p>
 
